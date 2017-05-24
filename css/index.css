@@ -1,0 +1,8 @@
+.container{
+    text-align: center;
+    margin: 20px;
+    background-color: #ffffff;
+}
+#pdfContainer{
+    border: 1px solid blue;
+}
