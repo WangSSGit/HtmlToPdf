@@ -1,3 +1,3 @@
 # HtmlToPdf
-## 用chrome浏览器打开indexhtml
-## 点击download pdf
+1.用chrome浏览器打开index.html
+2.点击download pdf
